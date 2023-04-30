@@ -2,10 +2,10 @@
 description: Hier zeigen wir dir, wie du Java auf Ubuntu installieren kannst.
 ---
 
-# Java Installation Ubuntu 22.04 / 20.04
+# ♨ Java Installation Ubuntu 22.04 / 20.04
 
 {% hint style="info" %}
-Hier zeigen wir dir die Installation von den verschiedenen Java Versionen auf Debian 11
+Um die Befehle auszuführen müssen sie sich mit ihren Login Daten bei Putty anmelden.
 {% endhint %}
 
 **Als erstes überprüfen wir unseren Server ob es Updates oder Upgrades in der Paketliste gibt.**
