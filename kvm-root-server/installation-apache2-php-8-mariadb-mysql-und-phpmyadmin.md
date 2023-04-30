@@ -94,10 +94,6 @@ cd /usr/share
 wget https://www.phpmyadmin.net/downloads/phpMyAdmin-latest-all-languages.zip -O phpmyadmin.zip
 ```
 
-{% hint style="info" %}
-Falls ihr Server das Pakte "unzip" nicht Installiert hat, können sie es ganz einfach mit "apt install unzip" tuen.
-{% endhint %}
-
 **Jetzt entpacken wir die Runtergeladene Datei**
 
 ```
