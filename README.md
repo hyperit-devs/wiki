@@ -2,7 +2,7 @@
 description: Hier in der Wiki findest du alle hilfreichen Informationen.
 ---
 
-# Willkommen
+# 👋 Willkommen
 
 
 
