@@ -1,7 +1,7 @@
 ---
 description: >-
   Hier zeigen wir dir, wie du eine Domain in Plesk hinzufügst und mit einer
-  Domain Verbindet.
+  Domain Verbindest.
 ---
 
 # 💻 Plesk Domain verbinden
