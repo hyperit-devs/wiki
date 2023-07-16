@@ -18,17 +18,17 @@ Vergewissern sie sich das die von ihnen eingetragene Domain auch so geschrieben 
 
 Als erstes fügen wir eine Domain unseren Plesk Account hinzu.
 
-![](.gitbook/assets/Screenshot\_903.png)
+![](../.gitbook/assets/Screenshot\_903.png)
 
-![](.gitbook/assets/Screenshot\_904.png)
+![](../.gitbook/assets/Screenshot\_904.png)
 
-![](.gitbook/assets/Screenshot\_905.png)
+![](../.gitbook/assets/Screenshot\_905.png)
 
 ## Schritt 2:
 
 Wenn dieses getan wurde, gehen sie jetzt zu ihren Anbieter bei dem sie ihre Domain liegen haben. Dort erstellen sie einen neuen DNS Eintrag um die von ihnen eingetragenen Domain zu verbinden.
 
-![](.gitbook/assets/Screenshot\_906.png)
+![](../.gitbook/assets/Screenshot\_906.png)
 
 
 
@@ -40,4 +40,4 @@ Um die volle Funktion von ihrer Website zu genießen, empfehle ich ihnen alle DN
 
 Was die Website noch für DNS Eintragungen Optional benötigt. Sehen sie hier.
 
-![](.gitbook/assets/Screenshot\_907.png)
+![](../.gitbook/assets/Screenshot\_907.png)
