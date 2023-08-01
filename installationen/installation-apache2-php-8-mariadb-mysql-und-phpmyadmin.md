@@ -188,6 +188,9 @@ Nun aktivieren wir unsere eben erstelle Konfigurationsdatei in Apache2 und laden
 
 ```
 a2enconf phpmyadmin
+```
+
+```
 systemctl reload apache2
 ```
 
